@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MyCoolDev
 - 👀 I’m A Developer
 - 🌱 I’m currently learning Golang
-- 📫 You CaN reach me on discord @MyCool#4453
+- 📫 You Can reach me on discord @MyCool#4453
 
 <!---
 MyCoolDev/MyCoolDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
