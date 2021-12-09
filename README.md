@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MyCoolDev
 - 👀 I’m A Developer
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me on discord @MyCool#4453
 
 <!---
