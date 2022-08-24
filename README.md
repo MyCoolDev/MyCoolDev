@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">Hi :wave:, I'm Mycool</h2>
+<h2 align="center">Hi :wave:, I'm MyCool</h2>
 
 ###
 
