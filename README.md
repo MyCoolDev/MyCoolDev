@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">:seedling: I’m currently learning Go<br><br>:mailbox: How to reach me MyCool#4453 on discord</p>
+<p align="left">:mailbox: How to reach me MyCool#4453 on discord</p>
 
 ###
 
