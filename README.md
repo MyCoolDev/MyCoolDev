@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">:mailbox: How to reach me MyCool#4453 on discord</p>
+<p align="left">:mailbox: reach me on discord: MyCool#4453</p>
 
 ###
 
