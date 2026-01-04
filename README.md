@@ -31,10 +31,3 @@
 ###
 
 <p align="left">:mailbox: reach me on discord: MyCool#4453</p>
-
-###
-
-<h3 align="center">:fire: My Stats</h3>
-<div align="center">
-  <img dragable="false" src="http://github-readme-streak-stats.herokuapp.com?user=MyCoolDev&theme=dark&background=000000" alt="Github Streak"/>
-</div>
